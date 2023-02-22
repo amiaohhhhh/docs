@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[30],{351:function(t,e,n){"use strict";n.r(e);var s=n(3),r=Object(s.a)({},(function(){var t=this._self._c;return t("ContentSlotsDistributor",{attrs:{"slot-key":this.$parent.slotKey}},[t("p",[this._v("let query = JSON.parse(JSON.stringify(data).replace(/oldName/g, 'newName'))")])])}),[],!1,null,null,null);e.default=r.exports}}]);
